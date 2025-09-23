@@ -1,4 +1,4 @@
-This is a tenmplate directoryu structure to use as a starting point for projects. 
+This is a template directory structure to use as a starting point for projects. 
 
 It consists of the minimum set of folders and files for any project. 
 Specific projects will likely require additional folders and files. 
